@@ -10,4 +10,6 @@ DURATION: 8 WEEK
 
 MENTOR: NEELA SANTOSH
 
+## RESPONSIVE DESIGN IMPLEMENTATION - Task 2
 
+![Image](https://github.com/user-attachments/assets/ac980c2d-bc7e-40a8-bff0-2bfe2aa5b461)
